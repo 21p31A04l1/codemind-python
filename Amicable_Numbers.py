@@ -12,5 +12,3 @@ if get_pfs(a) == b and get_pfs(b)==a:
     print('Amicable')
 else:
     print('Not Amicable')
-
-
